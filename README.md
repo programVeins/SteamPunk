@@ -2,10 +2,22 @@
 
 A retrofuturistic sci-fi palette to stir up various elements of nostalgic science fantasy as you hack away with VSCode. The Steam Punk vibe, made better 🦾
 
+## Works amazing with:
+
+<br/>
+
+### Json
+
 ![Json](https://github.com/programVeins/SteamPunk/blob/master/images/Json.png)
 <br/>
+
+### React
+
 ![React](https://github.com/programVeins/SteamPunk/blob/master/images/React.png)
 <br/>
+
+### Python
+
 ![Python](https://github.com/programVeins/SteamPunk/blob/master/images/Python.png)
 <br/>
 
