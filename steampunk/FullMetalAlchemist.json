@@ -1,0 +1,23 @@
+
+
+{
+    "version": "Brotherhood",
+    "characters": {
+        "edward" : {
+            "type" : "human"
+        },
+        "alphonse" : {
+            "type" : "robot"
+        }
+    },
+    "philosophersstone" : {
+        "field" : "alchemy",
+        "powers" : {
+            "metallic" : "changes mercury to gold",
+            "elixir" : {
+                "headling" : "Used to heal people of curses",
+                "immortality" : "Gives immortality to user"
+            }
+        }
+    }
+}

@@ -1,5 +1,5 @@
 {
-	"name": "SteamPunk",
+	"name": "Steam Punk",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#202124",
@@ -12,7 +12,9 @@
 		"sideBarSectionHeader.background": "#202124",
 		"editorGroup.emptyBackground": "#202124",
 		"editorGroupHeader.tabsBackground": "#202124",
-		"activityBarBadge.foreground": "#eeeeee"
+		"editorGroup.dropBackground": "#20161675",
+		"activityBarBadge.foreground": "#eeeeee",
+		"tab.inactiveBackground": "#202124"
 
 	},
 	"tokenColors": [
