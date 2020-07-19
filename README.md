@@ -6,17 +6,17 @@ A retrofuturistic sci-fi palette to stir up various elements of nostalgic scienc
 
 ### Json
 
-![Json](https://github.com/programVeins/SteamPunk/blob/master/images/Json.png)
+![Json](https://ibb.co/sgC657b)
 <br/>
 
 ### React
 
-![React](https://github.com/programVeins/SteamPunk/blob/master/images/React.png)
+![React](https://ibb.co/8037CVZ)
 <br/>
 
 ### Python
 
-![Python](https://github.com/programVeins/SteamPunk/blob/master/images/Python.png)
+![Python](https://ibb.co/xf6xFp0)
 <br/>
 
 ## Installation:
