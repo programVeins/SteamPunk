@@ -3,10 +3,21 @@
     "displayName": "SteamPunk",
     "description": "A retrofuturistic sci-fi palette to stir up various elements of nostalgic science fantasy as you hack away with VSCode",
     "version": "0.0.1",
+    "publisher": "Sabesh Bharathi",
+    "icon": "images/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/programVeins/SteamPunk"
+      },
     "engines": {
         "vscode": "^1.47.0"
     },
+    "galleryBanner": {
+        "color": "#202124",
+        "theme": "dark"
+      },
     "categories": [
+        "VSCode",
         "Themes"
     ],
     "contributes": {
