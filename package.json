@@ -1,0 +1,21 @@
+{
+    "name": "steampunk",
+    "displayName": "SteamPunk",
+    "description": "A retrofuturistic sci-fi palette to stir up various elements of nostalgic science fantasy as you hack away with VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Steam Punk",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Steam Punk-color-theme.json"
+            }
+        ]
+    }
+}
