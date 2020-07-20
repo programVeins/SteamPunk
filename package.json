@@ -14,7 +14,7 @@
     },
     "scripts": {
         "pack": "vsce package && git add . && git commit -m \"New Release\" && git push",
-        "publish": "vsce pubish"
+        "publish": "vsce publish"
       },
     "galleryBanner": {
         "color": "#202124",
