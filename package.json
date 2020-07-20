@@ -2,7 +2,7 @@
     "name": "steampunk",
     "displayName": "SteamPunk",
     "description": "A retrofuturistic sci-fi palette to stir up various elements of nostalgic science fantasy as you hack away with VSCode",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "sabeshbharathi",
     "icon": "images/logo.png",
     "repository": {
@@ -12,6 +12,10 @@
     "engines": {
         "vscode": "^1.47.0"
     },
+    "scripts": {
+        "pack": "vsce package && git add . && git commit -m \"New Release\" && git push",
+        "publish": "vsce pubish"
+      },
     "galleryBanner": {
         "color": "#202124",
         "theme": "dark"
