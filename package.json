@@ -13,8 +13,9 @@
         "vscode": "^1.47.0"
     },
     "scripts": {
-        "pack": "vsce package && rm steampunk-0.0.2.vsix && git add . && git commit -m \"Released 0.0.3\" && git push",
-        "publish": "vsce publish"
+        "pack": "vsce package",
+        "publish": "vsce publish",
+        "update": "rm steampunk-0.0.3.vsix && rm steampunk-0.0.4.vsix && git add . && git commit -m \"Released 0.0.4\" && git push"
       },
     "galleryBanner": {
         "color": "#202124",
