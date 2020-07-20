@@ -12,17 +12,17 @@ A retrofuturistic sci-fi palette to stir up various elements of nostalgic scienc
 
 ### Json
 
-![Json](https://i.ibb.co/x2YfmZX/Json.png)
+![Json](https://i.ibb.co/cCGCZp6/js.png)
 <br/>
 
 ### React
 
-![React](https://i.ibb.co/7Xc1fFm/React.png)
+![React](https://i.ibb.co/mvQyfxy/re.png)
 <br/>
 
 ### Python
 
-![Python](https://i.ibb.co/5nLbKNy/Python.png)
+![Python](https://i.ibb.co/7R27SN6/py.png)
 <br/>
 
 ## Installation:
