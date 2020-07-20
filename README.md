@@ -1,5 +1,11 @@
 # SteamPunk ⚙️ VSCode Theme for the Sci-Fi Freaks
 
+![Version](https://img.shields.io/visual-studio-marketplace/v/sabeshbharathi.steampunk)
+![Rating](https://img.shields.io/visual-studio-marketplace/r/sabeshbharathi.steampunk)
+![Stars](https://img.shields.io/visual-studio-marketplace/stars/sabeshbharathi.steampunk)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/sabeshbharathi.steampunk?color=blue)
+
+
 A retrofuturistic sci-fi palette to stir up various elements of nostalgic science fantasy as you hack away with VSCode. The Steam Punk vibe, made better 🦾
 
 ## Works amazing with:
