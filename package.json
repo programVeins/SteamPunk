@@ -13,7 +13,7 @@
         "vscode": "^1.47.0"
     },
     "scripts": {
-        "pack": "vsce package && git add . && git commit -m \"New Release\" && git push",
+        "pack": "vsce package && rm steampunk-0.0.2.vsix && git add . && git commit -m \"Released 0.0.3\" && git push",
         "publish": "vsce publish"
       },
     "galleryBanner": {
